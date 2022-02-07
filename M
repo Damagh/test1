@@ -1,0 +1,7 @@
+  float a, b, c, per;
+    cin>>a; 
+    cin>>b;
+    cin>>c;
+    per = a+b+c;
+    cout<<"\nPerimeter = "<<per;
+    cout<<endl;
