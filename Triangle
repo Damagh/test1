@@ -1,0 +1,6 @@
+*a == b*b + c*c: 
+    print
+ b*b == c*c + a*a :
+    print
+ c*c == a*a + b*b:
+    print
